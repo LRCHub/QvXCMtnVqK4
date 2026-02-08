@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "I say",
+  "base_artist": "嵐",
+  "createdAt": "2026-02-08T08:38:29.693899Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What The Hell Did I Say",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/01_What_The_Hell_Did_I_Say_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Be Afraid (Do As I Say)",
+      "artist": "Frankie Karl & The Dreams",
+      "has_synced": false,
+      "path": "select/02_Don't_Be_Afraid_(Do_As_I_Say)_Frankie_Karl_&_The_Dreams.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What More Can I Say?",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/03_What_More_Can_I_Say_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What More Can I Say",
+      "artist": "NxWorries",
+      "has_synced": false,
+      "path": "select/04_What_More_Can_I_Say_NxWorries.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What Do I Say",
+      "artist": "Tevin Campbell",
+      "has_synced": false,
+      "path": "select/05_What_Do_I_Say_Tevin_Campbell.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Say Grace",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/06_I_Say_Grace_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Every Night I Say a Prayer",
+      "artist": "Little Boots",
+      "has_synced": true,
+      "path": "select/07_Every_Night_I_Say_a_Prayer_Little_Boots.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Things I Say",
+      "artist": "Joanna Newsom",
+      "has_synced": true,
+      "path": "select/08_The_Things_I_Say_Joanna_Newsom.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Is (What I Say)",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/09_Love_Is_(What_I_Say)_INXS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Should I Say Yes?",
+      "artist": "Nu Shooz",
+      "has_synced": true,
+      "path": "select/10_Should_I_Say_Yes_Nu_Shooz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Should I Say Yes? (The Mantronik CD Love Mix)",
+      "artist": "Nu Shooz",
+      "has_synced": true,
+      "path": "select/11_Should_I_Say_Yes__(The_Mantronik_CD_Love_Mix)_Nu_Shooz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When I Say (No Giveaway)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/12_When_I_Say_(No_Giveaway)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "When I Say No",
+      "artist": "Debbie Gibson",
+      "has_synced": true,
+      "path": "select/13_When_I_Say_No_Debbie_Gibson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "And I Say",
+      "artist": "A.R. Kane",
+      "has_synced": false,
+      "path": "select/14_And_I_Say_A.R._Kane.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I say",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_I_say_嵐.txt"
+    }
+  ]
+}
